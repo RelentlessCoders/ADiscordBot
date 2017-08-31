@@ -1,0 +1,45 @@
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.exe.config
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.vbprojResolveAssemblyReference.cache
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.Resources.resources
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.vbproj.GenerateResource.Cache
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.exe
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.pdb
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Discord.Net.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Newtonsoft.Json.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\RestSharp.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\WebSocket4Net.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Newtonsoft.Json.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\bin\Debug\RestSharp.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.exe
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.pdb
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.exe.config
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.exe
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.pdb
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.exe
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.pdb
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\PerkBotConsole.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Discord.Net.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\RestSharp.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\WebSocket4Net.dll
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\RestSharp.xml
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.vbprojResolveAssemblyReference.cache
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.Resources.resources
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\obj\Debug\PerkBotConsole.vbproj.GenerateResource.Cache
+C:\Users\BUZZERD89\Desktop\PerkBotConsole\PerkBotConsole\bin\Debug\Discord.Net.Audio.dll
