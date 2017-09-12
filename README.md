@@ -1,5 +1,5 @@
-                                   DiscordBot
-                          Created and managed by * BUZZ *
+                                  # DiscordBot
+                        # Created and managed by * BUZZ *
                                               
                                               
                                               
