@@ -1,7 +1,9 @@
 ﻿'
 ' Simple Discord bot by RelentlessCoders
 '          Released 8/30/2017
-
+'      
+' This is using an outdated Discord.NET (0.9.6)
+'       Update using 1.0.2 coming soon!
 Imports Discord
 Imports System.Net
 Imports System.Random
