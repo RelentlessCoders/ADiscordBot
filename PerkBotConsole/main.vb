@@ -71,13 +71,15 @@ console:
 
         Else
             Dim msg As String = message.Message.RawText
-
+               
+        ' Did a simple fix here for the arguments not working, they should be all good now!
+        ' 9/12/17
+        
+        
             If msg.StartsWith(Trigger) Then
                 If msg.Contains(" ") Then
                     Dim cmd As String = msg.Split(Trigger)(1).Split(" ")(0)
                     Dim arg As String = msg.Split(" ")(1)
-                    Dim arg2 As String = msg.Split(" ")(2)
-                    Dim arg3 As String = msg.Split(" ")(3)
                     Dim answer As String = 0
                     If LOG = 1 Then
                         Console.ForegroundColor = ConsoleColor.Red
@@ -91,10 +93,10 @@ console:
 
                         Case "geoip"
                             Await message.Channel.SendMessage(client.DownloadString("http://webresolver.nl/api.php?key=NK6GJ-XSS05-Y8R6Q-INEJG&action=geoip&string=" + arg).Replace("<br>", " "))
-
-                        Case "boot"
-                            Await message.Channel.SendMessage("No API found.")
+                    
                         Case "calc"
+                            Dim arg2 As String = msg.Split(" ")(2)
+                            Dim arg3 As String = msg.Split(" ")(3)
                             Dim One As Double
                             Dim Two As Double
                             Dim result As Double
